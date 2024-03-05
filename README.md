@@ -2,6 +2,8 @@
 
 <a name="hello"></a>
 
+[![DOI](https://zenodo.org/badge/767650861.svg)](https://zenodo.org/doi/10.5281/zenodo.10783257)
+
 1. [Dataset Introduction](#hello)
 2. [Virtual World Language Learning Data](#alelo)
 3. [Classical Classroom Training Data](#classical)
